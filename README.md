@@ -2,6 +2,7 @@
 
 
 
+
 - 🌱 I’m currently learning Vue.js and Node.js and MongoDB
 - ⚡ Fun fact: I love taking photos and playing drums😄
 - 💬 Ask me about hardware and software stuff
@@ -25,9 +26,10 @@
 
 ### Connect With Me
 
-[<img alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Twitter" width="82px" height="23" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img alt="LinkedIn" width="82px" height="23" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Instagram" width="82px" height="24" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="Gmail" width="82px" height="24" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 
 
@@ -51,3 +53,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/kamuratyilmaz
 [linkedin]: https://www.linkedin.com/in/kamilmuratyilmaz/
 [instagram]: https://www.instagram.com/muratyillmaz/
+[gmail]: mailto:kamilmuratyilmaz@gmail.com
