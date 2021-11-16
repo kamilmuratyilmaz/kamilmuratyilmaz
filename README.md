@@ -1,3 +1,5 @@
+<img alt="iot" width="60%" src="https://raw.githubusercontent.com/kamilmuratyilmaz/kamilmuratyilmaz/main/iot.gif">
+
 ### Hi there I am Murat 👋
 
 I was a hardware guy before and worked on renewable energy systems. Currently I am trying to improve my skills on both IoT technologies and renewable energy to fight climate crisis.
