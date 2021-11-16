@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Vue.js and Node.js
+- ⚡ Fun fact: I love taking photos and playing drums😄
+- 💬 Ask me about hardware and stuff
+- 📫 How to reach me: kamilmuratyilmaz@gmail.com
 <!--
 **kamilmuratyilmaz/kamilmuratyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
