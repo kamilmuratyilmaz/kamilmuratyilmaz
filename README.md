@@ -31,8 +31,7 @@ After I achieve my goal I want to work on IoT backend for creating energy effice
 <a href="https://www.raspberrypi.org/" title="RaspberryPi"><img alt="RaspberryPi"  width="26px" src="https://www.raspberrypi.com/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" /></a>
 <a href="https://www.espressif.com/en/company/about-us/who-we-are" title="Espressif"><img lat="Espressif" width="92px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"></a>
 ### OS
-<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
-<img alt="RaspberryPi"  width="26px" src="https://www.raspberrypi.com/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" />
+<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"><img alt="RaspberryPi"  width="26px" src="https://www.raspberrypi.com/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" />
 
 ### Contact With Me
 
