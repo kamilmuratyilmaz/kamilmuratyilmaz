@@ -5,7 +5,7 @@ I was a hardware guy before and worked on renewable energy systems. Currently I 
 After I achieve my goal I want to work on IoT backend for creating energy efficent systems.
 
 
-- 🌱 I’m currently learning Vue.js, Node.js and MongoDB at Patika.dev Reengen FullStack Bootcamp
+- 🌱 I’m currently learning Vue.js, Node.js and MongoDB at [Patika.dev](https://www.patika.dev/) Reengen FullStack Bootcamp
 - ⚡ Fun fact: I love taking photos, playing video games and drums😄
 - 💬 Ask me about hardware and software stuff
 
