@@ -2,7 +2,7 @@
 
 ### Hi there I am Murat 👋
 
-I was a hardware guy before and worked on renewable energy systems. Currently I am trying to improve my skills on both IoT technologies and renewable energy to fight climate crisis.
+I was a hardware guy before and worked on renewable energy systems. Currently I am trying to improve my skills on both IoT & Cloud technologies and renewable energy to fight climate crisis.
 
 After I achieve my goal I want to work on IoT backend for creating energy efficent systems.
 
