@@ -1,13 +1,10 @@
-<img alt="iot" width="100%" src="[https://raw.githubusercontent.com/kamilmuratyilmaz/kamilmuratyilmaz/main/Ai.gif)">
+<img alt="iot" width="100%" src="https://raw.githubusercontent.com/kamilmuratyilmaz/kamilmuratyilmaz/main/Ai.gif">
 
 ### Hi there I am Murat 👋
 
-I was a hardware guy before and worked on renewable energy systems. Currently I am trying to improve my skills on both IoT & Cloud technologies and renewable energy to fight climate crisis.
+I was a hardware guy before and worked on renewable energy systems. Currently I am trying to improve my skills on both Artifical Intelligence technologies and Cloud.
 
-After I achieve my goal I want to work on IoT backend for creating energy efficent systems.
-
-
-- 🌱 I’m currently working at P-UX and focusing on Node.js, Python and Vue.js
+- 🌱 I’m currently working at P-UX and focusing on Python, Data and A.I
 - ⚡ Fun fact: I love taking photos, playing video games and drums😄
 - 💬 Ask me about hardware and software stuff
 
