@@ -1,4 +1,4 @@
-<img alt="iot" width="100%" src="https://raw.githubusercontent.com/kamilmuratyilmaz/kamilmuratyilmaz/main/iot.gif">
+<img alt="iot" width="100%" src="[https://raw.githubusercontent.com/kamilmuratyilmaz/kamilmuratyilmaz/main/iot.gif](https://phitomas.com/wp-content/uploads/2020/11/Ai.gif)">
 
 ### Hi there I am Murat 👋
 
