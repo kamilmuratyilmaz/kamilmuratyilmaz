@@ -13,8 +13,6 @@ I was a hardware guy before and worked on renewable energy systems. Currently I 
 - AWS SageMaker, ECR, ECS, EKS, S3 and EC2
 - GCP VertexAI
 
--   
-
 ### Technologies
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
