@@ -2,12 +2,18 @@
 
 ### Hi there I am Murat 👋
 
-I was a hardware guy before and worked on renewable energy systems. Currently I am trying to improve my skills on both Artifical Intelligence technologies and Cloud.
+I was a hardware guy before and worked on renewable energy systems. Currently I am trying to improve my skills on both Machine Learning technologies and MLOps (AWS&GCP).
 
-- 🌱 I’m currently working at P-UX and focusing on Python, Data and A.I
+- 🌱 I’m currently working at Cypien.AI, focusing on GenAI architectures utilizing open-source models.
+- Utilizing both Transformer & Diffusino Based Models to create GenAI Apps.
 - ⚡ Fun fact: I love taking photos, playing video games and drums😄
 - 💬 Ask me about hardware and software stuff
 
+### Services
+- AWS SageMaker, ECR, ECS, EKS, S3 and EC2
+- GCP VertexAI
+
+-   
 
 ### Technologies
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
@@ -29,8 +35,6 @@ I was a hardware guy before and worked on renewable energy systems. Currently I 
 <a href="https://www.arduino.cc/" title="Arduino"><img alt="Arduino"  width="26px" height="21px" src="https://camo.githubusercontent.com/a9e049ade1147226016feb1ab0024b7e09cf5e6ce7921aa9e7326942f98c71dd/687474703a2f2f636f6e74656e742e61726475696e6f2e63632f6272616e642f61726475696e6f2d636f6c6f722e737667" /></a>
 <a href="https://www.raspberrypi.org/" title="RaspberryPi"><img alt="RaspberryPi"  width="26px" src="https://www.raspberrypi.com/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" /></a>
 <a href="https://www.espressif.com/en/company/about-us/who-we-are" title="Espressif"><img lat="Espressif" width="92px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg"></a>
-### OS
-<img alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">  <img alt="RaspberryPi"  width="25px" src="https://www.raspberrypi.com/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" /> <img alt="Windows" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/25px-Windows_logo_-_2021.svg.png">
 
 ### Contact With Me
 
